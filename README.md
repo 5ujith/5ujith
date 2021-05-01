@@ -18,10 +18,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Sublime" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=fLmdw2eX&id=A2D99B189E63722C48CAA975D67F6F668994E749&thid=OIP.fLmdw2eXkn_5D7f-SxrwCAAAAA&mediaurl=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F684879%3Fs%3D200%26v%3D4&exph=200&expw=200&q=Sublime+Text+3+Logo&ck=69909442DF80C7ACD572CEFCC8B20901&selectedindex=0&form=IRPRST&ajaxhist=0&pivotparams=insightsToken%3Dccid_ZFaSGscq*cp_75926BBE92614150076FFC6A8C30DAF9*mid_246FEDF67E0558A0D5A0DF04F9CA6041AFA9A2D0*simid_608048789448821593*thid_OIP.ZFaSGscqbHZS1E6qdCYs-QAAAA&vt=0&sim=11&iss=VSI&ajaxhist=0" />]
+<p>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"/>
+<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/744px-Synfig_logo.svg.png"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+<img width="45" height="45" hspace="10" src="https://raw.githubusercontent.com/duythien0912/flutter_zalo_login/master/flutter.jpeg"/>
+<img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>
+<img width="45" height="45" hspace="10" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
+<img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/>
+</p>
 
 <br />
 <br />
