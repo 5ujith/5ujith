@@ -57,6 +57,12 @@
 
 ---
 
+<h3>Github stats:dart:</h3>
+
+![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ujith&show_icons=true&theme=radical)
+
+---
+
 
 </details>
 
