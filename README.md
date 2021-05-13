@@ -1,6 +1,14 @@
-### Hi there, I'm Sujith 👋
+<h1 align="center"> Hi there, I'm Sujith 👋:exclamation: <br></br>
 
-## I'm a Student, Programmer and Learner!!
+<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+![](https://komarev.com/ghpvc/?username=5ujith&style=flat-square)
+
+<h2 align="center"> Competitive Programmer:bar_chart:, Student🎓 and Learner📚</h2>
+
+<img height="50" src="https://cybergeeks.in/content/images/2015/12/about.png"/>
+
+
 
 - 🔭 I am pursuing ECE at [SASTRA University!][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -8,15 +16,28 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games
 
+---
 
-### Connect with me:
+### Connect with me 🔗
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="5ujith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="5ujith| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="5ujith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <br />
 
-### Languages and Tools:
+---
+
+<h3>Profiles:boy:</h3>
+<a href="https://www.codechef.com/users/mouleas14/" target="_blank"> <img height="30" width="100" hspace="3" src="https://user-images.githubusercontent.com/74062509/116768653-ecfedd80-aa55-11eb-85bc-6dc4469fb3f5.jpg"/> </a>
+<a href="https://codeforces.com/profile/M0u1ea5/" target="_blank"> <img height="30" hspace="2" src="https://letmethink.mx/public/pictures/cf-172/codeforces_logo.png"/> </a>
+<a href="https://leetcode.com/M0u1ea5/" target="_blank"> <img height="30" width = "100" hspace="2" src="https://miro.medium.com/max/724/1*izVQIUjPIk1XoqWj3VaiKg.png"/></a>
+<a href="https://www.hackerrank.com/heshma27/" target="_blank"> <img height="30" hspace="3" src="http://aommaster.com/blog/wp-content/uploads/2014/07/HackerRankLogo.png"></a>
+<a href="https://atcoder.jp/users/M0u1ea5/" target="_blank"> <img height="30" src="https://user-images.githubusercontent.com/10775915/68087230-18236380-fe97-11e9-88a2-c3fdd265be30.png"></a>
+ 
+ --- 
+
+### Languages and Tools ⚙
 
 <p>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
@@ -42,3 +63,4 @@
 [instagram]: https://www.instagram.com/i_5ujith
 [linkedin]: https://www.linkedin.com/in/sujith-s-1a01a61ba
 [website]: https://sastra.edu/
+[gmail]: mailto:0isujith0@gmail.com
