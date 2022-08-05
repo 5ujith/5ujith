@@ -31,7 +31,7 @@
 <a href="https://www.codechef.com/users/sujith_s/" target="_blank"> <img height="30" width="100" hspace="3" src="https://user-images.githubusercontent.com/74062509/116768653-ecfedd80-aa55-11eb-85bc-6dc4469fb3f5.jpg"/> </a>
 <a href="https://codeforces.com/profile/Sujith_/" target="_blank"> <img height="30" hspace="2" src="https://letmethink.mx/public/pictures/cf-172/codeforces_logo.png"/> </a>
 <a href="https://leetcode.com/_Sujith_/" target="_blank"> <img height="30" width = "100" hspace="2" src="https://miro.medium.com/max/724/1*izVQIUjPIk1XoqWj3VaiKg.png"/></a>
-<a href="https://www.hackerrank.com/_Sujith_/" target="_blank"> <img height="30" hspace="3" src="http://aommaster.com/blog/wp-content/uploads/2014/07/HackerRankLogo.png"></a>
+<a href="https://www.hackerrank.com/_Sujith_/" target="_blank"> <img height="30" hspace="3" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.z-0_TVwzlDzP8Gj5WQtvzgAAAA%26pid%3DApi&f=1"></a>
 <a href="https://atcoder.jp/users/Sujith/" target="_blank"> <img height="30" src="https://user-images.githubusercontent.com/10775915/68087230-18236380-fe97-11e9-88a2-c3fdd265be30.png"></a>
  
  --- 
